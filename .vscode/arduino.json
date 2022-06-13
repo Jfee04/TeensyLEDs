@@ -1,3 +1,6 @@
 {
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "sketch": "Adafruit_NeoPixel\\examples\\simple\\simple.ino",
+    "port": "COM3"
 }
