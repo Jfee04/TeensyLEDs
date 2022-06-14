@@ -1,6 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "programmer": "arduino:avrisp",
-    "sketch": "TeensyLEDs\\src\\ScreenCap.ino",
-    "port": "COM3"
+    "port": "COM3",
+    "sketch": "TeensyLEDs\\src\\ScreenCap.ino"
 }
