@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\Users\\jjbat\\Desktop\\TeensyLEDs"
+                "C:\\Users\\jjbat\\Desktop\\TeensyLEDs",
+                "${workspaceFolder}/TeensyLEDs/src"
             ],
             "defines": [
                 "_DEBUG",
